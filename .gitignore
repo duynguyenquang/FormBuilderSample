@@ -1,0 +1,5 @@
+/bin
+./logs
+/.vs
+/node_modules
+/obj
